@@ -21,4 +21,4 @@ jobs:
 
             - name: Display OS and Node version
               run: |
-                  echo "OS: ${{ matrix.os }}, Node version: ${{ matrix.node-version }}."
+                  echo "OS: ${{ matrix.os }}, Node version: ${{ matrix.node-version }}.."
